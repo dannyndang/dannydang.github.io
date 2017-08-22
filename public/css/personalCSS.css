@@ -1,7 +1,11 @@
-body, html {
-  height: 100%;
-  background-color: #fff;
+body, html{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
 }
+
+
 
 /* font balancing for entire web page
 html { font-size: 90.5%; }
@@ -369,3 +373,17 @@ h1 { font-size: 2.4rem; }
 }
 */
 
+#mynavbar {
+  position: absolute;
+          width: 100%;
+          left: 0;
+}
+
+
+/* Debug Ghost CSS Elements Causing Unwanted Scrolling *
+* {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+}
+*/
