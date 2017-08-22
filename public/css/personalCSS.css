@@ -1,6 +1,6 @@
 body, html {
-    height: 100%;
-	background-color: #fff;
+  height: 100%;
+  background-color: #fff;
 }
 
 /* font balancing for entire web page
@@ -37,6 +37,11 @@ h1 { font-size: 2.4rem; }
 
 .padBot {
 	margin-bottom: 50px;
+}
+
+/* for mobile alignment for portfolio grids */
+.padBot2 {
+  margin-bottom: 15px;
 }
 
 .sectionHeader {
@@ -208,7 +213,7 @@ h1 { font-size: 2.4rem; }
 }
 
 .container-fluid2 {
-	overflow:auto;
+  overflow:auto;
 }
 
 .portfolioRow {
@@ -363,3 +368,4 @@ h1 { font-size: 2.4rem; }
    background-image: url('/images/sqGHicon.png');
 }
 */
+
