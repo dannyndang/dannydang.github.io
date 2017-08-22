@@ -373,13 +373,6 @@ h1 { font-size: 2.4rem; }
 }
 */
 
-#mynavbar {
-  position: absolute;
-          width: 100%;
-          left: 0;
-}
-
-
 /* Debug Ghost CSS Elements Causing Unwanted Scrolling *
 * {
   background: #000 !important;
